@@ -1,0 +1,23 @@
+{
+  "name": "reduxintro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redux-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Am1d1v/JSReduxIntro.git"
+  },
+  "keywords": [],
+  "author": "Dima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Am1d1v/JSReduxIntro/issues"
+  },
+  "homepage": "https://github.com/Am1d1v/JSReduxIntro#readme",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
